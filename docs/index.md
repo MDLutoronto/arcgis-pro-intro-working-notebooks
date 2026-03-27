@@ -4,6 +4,9 @@ layout: "home"
 description: "This guide provides some introductory information on how to use notebooks in the ArcGIS Pro environment. You will learn about what notebooks are, how to use them, and some useful tips on using ArcPy to analyze your geospatial data."
 created_date: 2025-02-18
 permalink: "/"  #! Remove this if not the homepage
+maintainer:
+ - name: Cole White
+   link: https://library.utoronto.ca/staff/cole-white
 ---
 
 # Introduction to Working with Notebooks in ArcGIS Pro
