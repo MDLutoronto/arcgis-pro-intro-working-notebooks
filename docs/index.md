@@ -135,3 +135,5 @@ Wondering if Notebooks and Python is for you? Here are some more resources about
 * [FAQ for ArcGIS Notebooks](https://community.esri.com/t5/python-documents/arcgis-notebooks-in-arcgis-pro-3-1-faq/ta-p/1261606)
 * [Examples of ArcGIS Notebooks](https://doc.arcgis.com/en/arcgis-online/get-started/about-sample-notebooks.htm)
 * Map and Data Library sample ArcGIS Notebooks | [https://github.com/MDLutoronto/ArcGISPro-Notebooks](https://github.com/MDLutoronto/ArcGISPro-Notebooks)
+
+Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) | Tools: [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
