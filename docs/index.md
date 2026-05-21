@@ -5,8 +5,8 @@ description: "This guide provides some introductory information on how to use no
 created_date: 2025-02-18
 permalink: "/"  #! Remove this if not the homepage
 maintainer:
- - name: Cole White
-   link: https://library.utoronto.ca/staff/cole-white
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
 ---
 
 # Introduction to Working with Notebooks in ArcGIS Pro
@@ -17,7 +17,7 @@ This guide provides some introductory information on how to use notebooks in the
 
 ArcGIS Pro notebooks provide users with an interactive environment for running Python code, automating workflows, and conducting geospatial analysis. They combine the power of Python with the spatial capabilities of ArcGIS Pro to help you streamline tasks and visualize data seamlessly. This guide will walk you through the basics of how to get started with notebooks in ArcGIS Pro.
 
-The Map & Data Library has some sample ArcGIS Pro notebooks available [here](https://github.com/MDLutoronto/ArcGISPro-Notebooks). We also have other workshops on Python through Jupyter. Please feel free to explore our [previous Python workshops](https://mdl.library.utoronto.ca/technology/tutorials/python-information-tutorials-and-workshops) and tutorials if you are looking to learn more.
+The Map & Data Library has some sample ArcGIS Pro notebooks available [here](https://github.com/MDLutoronto/ArcGISPro-Notebooks). We also have other workshops on Python through Jupyter. Please feel free to explore our [previous Python workshops](https://mdlutoronto.github.io/python-info-tutorials-workshops/) and tutorials if you are looking to learn more.
 
 **Working with Notebooks**
 
@@ -127,13 +127,13 @@ Below are a few pointers on guidelines for working in Notebooks through ArcGIS P
 
 Wondering if Notebooks and Python is for you? Here are some more resources about how you can implement and use notebooks for your work.
 
-* Esri Lesson | [Getting Started with Notebooks in ArcGIS Pro](https://learn.arcgis.com/en/projects/get-started-with-notebooks-in-arcgis-pro/)
-* Esri Tutorials | [Learn Python with ArcGIS Notebooks](https://learn.arcgis.com/en/paths/learn-python-with-arcgis-notebooks/)
-* Esri Academy | [ArcGIS Notebooks Basics](https://www.esri.com/training/catalog/5fd024722831fd696d26d53b/arcgis-notebooks-basics/)
-* Esri Documentation | [What is ArcPy?](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm)
-* ArcGIS Blog | [Introducing ArcGIS Notebooks in ArcGIS Pro](https://www.esri.com/arcgis-blog/products/arcgis-pro/analytics/introducing-arcgis-notebooks-in-arcgis-pro/)
+* Esri Lesson \| [Getting Started with Notebooks in ArcGIS Pro](https://learn.arcgis.com/en/projects/get-started-with-notebooks-in-arcgis-pro/)
+* Esri Tutorials \| [Learn Python with ArcGIS Notebooks](https://learn.arcgis.com/en/paths/learn-python-with-arcgis-notebooks/)
+* Esri Academy \| [ArcGIS Notebooks Basics](https://www.esri.com/training/catalog/5fd024722831fd696d26d53b/arcgis-notebooks-basics/)
+* Esri Documentation \| [What is ArcPy?](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm)
+* ArcGIS Blog \| [Introducing ArcGIS Notebooks in ArcGIS Pro](https://www.esri.com/arcgis-blog/products/arcgis-pro/analytics/introducing-arcgis-notebooks-in-arcgis-pro/)
 * [FAQ for ArcGIS Notebooks](https://community.esri.com/t5/python-documents/arcgis-notebooks-in-arcgis-pro-3-1-faq/ta-p/1261606)
 * [Examples of ArcGIS Notebooks](https://doc.arcgis.com/en/arcgis-online/get-started/about-sample-notebooks.htm)
-* Map and Data Library sample ArcGIS Notebooks | [https://github.com/MDLutoronto/ArcGISPro-Notebooks](https://github.com/MDLutoronto/ArcGISPro-Notebooks)
+* Map and Data Library sample ArcGIS Notebooks \| [https://github.com/MDLutoronto/ArcGISPro-Notebooks](https://github.com/MDLutoronto/ArcGISPro-Notebooks)
 
-Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) | Tools: [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) \| **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
